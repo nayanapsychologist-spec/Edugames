@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered Quiz Game Generator",
+  "description": "An application that dynamically generates a complete, game-based lesson from user-provided topic and content, including thematic styling and interactive activities.",
+  "requestFramePermissions": []
+}
